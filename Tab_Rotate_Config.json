@@ -1,0 +1,18 @@
+{
+  "settingsReloadIntervalMinutes": 60,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "file:///C:/DashboardStartup/PII_Newsticker_Folder/PII_Newsticker_Website.html",
+      "duration": 101,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://www.wetteronline.de/wetterradar/berlin/wilhelmsruh?gid=10382&wry=52.58,13.35&wrn=V2lsaGVsbXNydWg=&wrg=10382&wrx=52.58,13.35&wro=true&wrm=8&wrf=true",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    }
+  ]
+}
